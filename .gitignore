@@ -1,0 +1,19 @@
+﻿# node modules (global + per-package)
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# env & system
+.env
+.DS_Store
+npm-debug.log
+yarn-error.log
+
+# build / dist
+dist/
+build/
+coverage/
+
+# OS
+Thumbs.db
+desktop.ini
